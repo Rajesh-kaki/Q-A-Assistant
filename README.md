@@ -16,8 +16,8 @@ Upload a PDF or Excel file and ask questions. Runs fully local using Ollama.
 
 ## Run
 streamlit run app.py
-# if PATH warnings appear:
-# python -m streamlit run app.py
+if PATH warnings appear:
+python -m streamlit run app.py
 
 ## Use
 - Upload a PDF/XLSX in the sidebar.
