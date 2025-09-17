@@ -31,4 +31,5 @@ python -m streamlit run app.py
 - To reset the vector DB, delete the `chroma_db/` folder.
 
 - <img width="1914" height="1006" alt="Screenshot 2025-09-18 014211" src="https://github.com/user-attachments/assets/1c1e445e-d59d-42a4-a195-ff342cb96a5e" />
+<img width="1902" height="918" alt="image" src="https://github.com/user-attachments/assets/c839e0bd-e55b-40ac-93cf-a1a1bfa06c9f" />
 
